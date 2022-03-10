@@ -1,0 +1,232 @@
+# Users_liezl_Documents_Projects_sleap
+
+# Base directory: C:\Users\liezl\Documents
+# Root directory containing files: Projects\sleap
+# Root directory of comparate: sleap\pr\supervised_id\sleap
+# This file lists the files contained within the "root directory containing files"
+#   which are not contained in the "root directory of the comparate"
+
+0: COMMIT_EDITMSG
+1: FETCH_HEAD
+
+.git\hooks
+2: push-to-checkout.sample
+
+.git\logs\refs\heads\liezl
+3: update-video-gui
+
+.git\logs\refs\remotes\origin\liezl
+4: supervised_id
+
+.git\logs\refs\remotes\origin\talmo
+5: m1
+
+.git\logs\refs\remotes\upstream
+6: develop
+7: gcp
+8: gh-pages
+9: main
+
+.git\logs\refs\remotes\upstream\arie
+10: ux
+
+.git\logs\refs\remotes\upstream\talmo
+11: gpuhackathon
+12: m1
+13: onboarding_ux
+14: supervised_id
+15: supervised_id_td
+
+.git\objects\09
+16: ea5dc98be6f89726edce3b5a23461f6a178358
+
+.git\objects\0c
+17: 6ac7130598742ad0d4867d1d24eaa7595e2a93
+
+.git\objects\0d
+18: 4dee78e22bedb2afebc73f95bdf0ead7df174b
+
+.git\objects\0e
+19: 0b83db8b1657bac812c38d12bb9075af951260
+
+.git\objects\10
+20: 3936305f6f144277bd755397e22c95dccd6f1a
+
+.git\objects\14
+21: 80ae82013301396d2214c31ecae1340068162d
+
+.git\objects\15
+22: 6ed82deadb767c230b00553ab5ebc47e570ae5
+
+.git\objects\21
+23: 9630628507873b90fddb2e951ca1fcda4124dc
+
+.git\objects\26
+24: a207ccaae76646492c8a470ce695d692045726
+
+.git\objects\2d
+25: f96e445ddae1f5587935e013e56ef13a845cba
+
+.git\objects\2e
+26: adec5277cf3b4203206dfd85f8d62b8b6921de
+
+.git\objects\36
+27: 8d11f2665cb1762252cfbf4358cc0edef7b2b9
+
+.git\objects\3e
+28: 6295ac5ab177ee6a222a5b80c0326dfb1d4692
+
+.git\objects\46
+29: 57d6432d8283e60ba872aef16966a6d6a38506
+
+.git\objects\49
+30: cc6ae2081a3ba4cc0af9738a42950d434b9d6e
+
+.git\objects\4b
+31: c8e9ad51dde3f1c04b0643c3f071731f8b3d20
+
+.git\objects\4d
+32: a19a8c2d8bdc1206dbf97789ba0215338fbfce
+
+.git\objects\54
+33: e91704621890e163450ae1c12cadb24ff1befc
+
+.git\objects\5c
+34: 071fdfefbf0df2f523b636316db001e850a918
+
+.git\objects\68
+35: 3ec5e88de537e67bdcd9d6e20313ff409d5651
+
+.git\objects\7b
+36: ec15ef2b229660d24ef040a6b5c0a32cffc301
+
+.git\objects\7c
+37: c2d30c5b66e33b97a934fb1d358142c39663d2
+
+.git\objects\84
+38: b5cc12b07e0ec33b83cd51bb8b5ce4e87deeac
+39: c7a8cbb6cc1a54990fab0304ce6d25bd00bea9
+
+.git\objects\97
+40: f24704f45c30f5ab5df2b9618c18047960582d
+
+.git\objects\a1
+41: c83697b81221b5e30c3dabd75707f415b1fddb
+
+.git\objects\ad
+42: 7bb716101b44df6a5ec7365abcc403bd6cd490
+
+.git\objects\c2
+43: 927638aad80cad3784857bda40b3ee2e4590d7
+
+.git\objects\c3
+44: bd0f80e597362ae2e7e39159ad71b2f9499327
+
+.git\objects\ca
+45: 11dbbce5a673cc4b6f5f51222dd28e18291286
+46: c51a3d36436a4a8465907f0ebfdf5027214086
+
+.git\objects\d7
+47: 2ef791b003369b1e3d911cfda5a41df2bf915f
+
+.git\objects\dc
+48: a8a3b1182664fd235519bc92f7fa79d403daf5
+
+.git\objects\e3
+49: 721da77dcfd48c6c08cb4ebc1a5ab37630dae2
+
+.git\objects\e9
+50: 737783d007a84a5207b7936c9ab299509b9c6d
+
+.git\objects\eb
+51: 2899c67226d6940f2e03231beaf8c5f4fb2a9e
+
+.git\objects\f3
+52: 8274624a3bb9eed2be8ef3720b74f6cc200fd2
+
+.git\objects\fe
+53: 304c25b93601ad650045bcea963122b379a148
+
+.git\objects\pack
+54: pack-7154f8b413fcdafd919bb91935ceafcc1a7235e2.idx
+55: pack-7154f8b413fcdafd919bb91935ceafcc1a7235e2.pack
+
+.git\refs\heads\liezl
+56: update-video-gui
+
+.git\refs\remotes\origin\liezl
+57: supervised_id
+
+.git\refs\remotes\origin\talmo
+58: m1
+
+.git\refs\remotes\upstream
+59: develop
+60: gcp
+61: gh-pages
+62: main
+
+.git\refs\remotes\upstream\arie
+63: ux
+
+.git\refs\remotes\upstream\talmo
+64: gpuhackathon
+65: m1
+66: onboarding_ux
+67: supervised_id
+68: supervised_id_td
+
+.git\refs\tags
+69: v1.2.0a6
+
+.pytest_cache\v\cache
+70: lastfailed
+
+.vscode
+71: settings.json
+
+sleap\io\__pycache__
+72: dataset.cpython-39.pyc
+73: __init__.cpython-39.pyc
+
+sleap\__pycache__
+74: version.cpython-39.pyc
+75: __init__.cpython-39.pyc
+
+tests\data\models\min_tracks_2node.UNet.bottomup_multiclass
+76: best_model.h5
+77: initial_config.json
+78: training_config.json
+
+tests\data\models\min_tracks_2node.UNet.topdown_multiclass
+79: best_model.h5
+80: initial_config.json
+81: training_config.json
+
+tests\data\tracks
+82: clip.2node.slp
+83: clip.mp4
+84: clip.slp
+
+tests\fixtures\__pycache__
+85: skeletons.cpython-39.pyc
+
+tests\nn
+86: test_heads.py
+87: test_inference_identity.py
+88: test_model.py
+
+tests\nn\data
+89: test_identity.py
+
+tests\nn\data\__pycache__
+90: test_identity.cpython-37-pytest-7.0.1.pyc
+
+tests\nn\__pycache__
+91: test_heads.cpython-37-pytest-7.0.1.pyc
+92: test_inference_identity.cpython-37-pytest-7.0.1.pyc
+93: test_model.cpython-37-pytest-7.0.1.pyc
+
+tests\__pycache__
+94: conftest.cpython-39-pytest-6.2.4.pyc
+95: __init__.cpython-39.pyc

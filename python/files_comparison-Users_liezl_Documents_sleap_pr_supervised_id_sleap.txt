@@ -1,0 +1,22 @@
+# Users_liezl_Documents_sleap_pr_supervised_id_sleap
+
+# Base directory: C:\Users\liezl\Documents
+# Root directory containing files: sleap\pr\supervised_id\sleap
+# Root directory of comparate: Projects\sleap
+# This file lists the files contained within the "root directory containing files"
+#   which are not contained in the "root directory of the comparate"
+
+0: rando_doc.txt
+
+.git\objects\pack
+1: pack-e382871062df3ae60012a1e32ec4beec6b3f2cdb.idx
+2: pack-e382871062df3ae60012a1e32ec4beec6b3f2cdb.pack
+
+.pytest_cache\v\cache
+3: nodeids
+
+sleap
+4: rando_doc.txt
+
+tests\__pycache__
+5: test_message.cpython-37.pyc
