@@ -1,7 +1,7 @@
 from time import perf_counter
 import csv, os
 
-# BUG: Should really read last heading to determine if a new heading is needed
+
 class TimingTool:
     def __init__(self, fname: str = "timing_tool.csv"):
         self.fname = fname
@@ -30,6 +30,7 @@ class TimingTool:
         if self.new_epoch:
             # Update previous heading and reset timer if at a new iteration
             self.prev_heading = self.data_dict.keys()
+            self.data_dict = {}
             self.data_dict[key_name] = 0
             self.tic_dbc = perf_counter()
         else:
