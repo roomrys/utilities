@@ -27,8 +27,7 @@ class TimingTool:
         if cls.new_epoch:
             # Update previous heading and reset timer if at a new iteration
             cls.prev_heading = cls.data_dict.keys()
-            cls.data_dict = {}
-            cls.data_dict[key_name] = 0
+            cls.data_dict = {key_name: 0}
             cls.tic_dbc = perf_counter()
             cls.new_epoch = False
         else:
