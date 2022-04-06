@@ -5,7 +5,7 @@ import csv, os
 class TimingTool:
     fname = "timing_tool.csv"
     tic_dbc = 0
-    new_epoch = True
+    new_epoch = False
     new_header = True
     data_dict = {}
     prev_heading = data_dict.keys()
